@@ -20,7 +20,7 @@ title                    : "인생의 또 다른 전환점"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "퐁치퐁치"
-description              : "An amazing website."
+description              : "Today I Learned"
 url                      : "https://Pongchi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "정원준"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "https://cdn.discordapp.com/avatars/349891757678526466/701119e2a6e3c49763944cda46bd86a3.webp?size=128"
+  bio              : "컴퓨터 공학과 2학년!"
+  location         : ""
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jwj1219j@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
